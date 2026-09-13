@@ -23,10 +23,8 @@ Atualmente, estou cursando ADS no IFTM - Campus Uberaba Pq. Tech
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAlves1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlves1981&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoAlves1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlves1981&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
